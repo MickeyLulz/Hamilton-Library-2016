@@ -1,0 +1,26 @@
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\bin\Debug\Hamilton Library 2016.exe.config
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Dashboard.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\MainWindow.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Application.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016_MarkupCompile.cache
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016_MarkupCompile.lref
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016.xml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\bin\Debug\Hamilton Library 2016.exe
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\bin\Debug\Hamilton Library 2016.pdb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\bin\Debug\Hamilton Library 2016.xml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Dashboard.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\MainWindow.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016.g.resources
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton_Library_2016.Resources.resources
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016.vbproj.GenerateResource.Cache
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016.exe
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016.pdb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Admin.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Admin.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Hamilton Library 2016.vbprojResolveAssemblyReference.cache
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Issue Book.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Issue Book.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Return Book.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Return Book.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Stats Page.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\Hamilton Library 2016\Hamilton Library 2016\obj\Debug\Stats Page.baml
